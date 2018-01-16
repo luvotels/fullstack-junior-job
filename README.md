@@ -5,6 +5,7 @@
 **Luvotels.com** is the first instant booking platform for love hotel rooms.
 
 **What is a "love hotel" (or simply "motel" in Portuguese)?**
+
 It’s a hotel with thematic rooms made for ultrashort stays (typically under 4 hours) with any amenities you can think of, where you can spend an amazing time as a couple.
 From nice suites with pole dance and jacuzzi to crazy lofts with indoor illuminated pools with cascades.
 
@@ -21,6 +22,8 @@ We aim at making it easy and fun to search for the perfect room and book it in a
 We won the Lisbon Challenge in December, from 300 projects to 3 winners (woohoo!), after 10 weeks of acceleration. We already have some Motels partners in São Paulo and some happy clients!
 
 We are technically at "seed" stage, so there are LOTS of things to do, but it’s also extremely interesting!
+
+![The three of us tired and happy at Lisbon Challenge](http://res.cloudinary.com/luvotelsp/image/upload/c_scale,f_auto,w_600/v1516107143/luvotels-founders-w-names_tef3n2.jpg)
 
 We are an international team of... 3 founders (plus some amazing interns, freelancers, advisors):
 * Rodrigo, Brazilian and Portuguese, the CEO, is in Lisbon, Portugal
@@ -41,11 +44,14 @@ We love the values and the content that LW teaches so we decided to make a speci
 It also means that you don’t have to sweat on what you know (and, more importantly, what you don’t know).
 
 We could name that Junior 1 and Junior 2 but... let’s use proper words!
+
 Loved the Bootcamp? Became fond of the terminal, Sublime Text and debugging? There we go!
 
 ### What are we looking for?
 
 A full-stack Rails developer looking to learn a lot.
+
+You like to design features, want to code them and are willing to ship a visually appealing and consistant product.
 
 You need to speak and write English fluently (or be dedicated to doing so as soon as possible). Portuguese and/or French would also ease communication.
 
@@ -101,7 +107,7 @@ Working remotely is not a problem (provided an extra level of care in communicat
 
 Interested? 
 
-1. Send us an email here hello@luvotels.com
+1. Send us an email: hello@luvotels.com
 2. We'll schedule a chat so we can start getting to know each other
 3. If 2 went well: we'll send you a coding test. No bullshit algorithm exercise here. A real super small app to work on.
 4. Else: Sorry for this time, maybe it will work in the future :)
