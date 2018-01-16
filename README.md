@@ -59,6 +59,8 @@ You need to speak and write English fluently (or be dedicated to doing so as soo
 
 We have a Rails 5.0 app, mobile-focused, using bootstrap 3 and only slight touches of javascript for now.
 
+![Our current booking process](http://res.cloudinary.com/luvotelsp/image/upload/c_scale,w_600/v1516114575/Selection_005_oggpmb.png)
+
 The near future is undoubtedly about starting to implement some React components. Possibly moving to Rails 5.1. Creating various APIs, providing a better search, easing the motels’ lives and improving our team toolkit so everyone in the company can work better.
 
 The future is about making that mobile-focused app into native ones without losing agility and being able to provide a smart dashboard to our partners!
